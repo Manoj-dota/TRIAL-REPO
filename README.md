@@ -4,5 +4,8 @@ This is the first time for me in GITHUB and i am experimenting in this repositor
 Hello everyone
 <br>
 owner : MANOJ KUMAR MANDAL
-<HR>
+<BR>
 WELL THIS REPOSITORY WILL BE A PART OF MY REVISION SESSIONS OF HTML,CSS AND JAVASCRIPPT AS WELL
+<HR>
+CONTACT INFO :- 
+(1)MAIL :- kumarmanojmandal99@gmail.com
